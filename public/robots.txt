@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /game/
+
+Sitemap: https://4enlinea.vercel.app/sitemap.xml
